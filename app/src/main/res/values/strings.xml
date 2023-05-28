@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">BusyDay</string>
+    <string name="activity_image">Изображение активности</string>
+    <string name="title_hint">Введите название</string>
+    <string name="description_hint">Введите описание</string>
+    <string name="add_button_text">Добавить активность</string>
+    <string name="sort">Сортировка</string>
+    <string name="statistic">Статистика</string>
+    <string name="search">Поиск</string>
+    <string name="detail">Открыть</string>
+    <string name="edit">Редактировать</string>
+    <string name="delete">Удалить</string>
+    <string name="save">Сохранить</string>
+    <string name="id">Id</string>
+    <string name="change_photo">Изменить фото</string>
+    <string name="start_time_hint">Начальное время</string>
+    <string name="start_time">Начальное время</string>
+    <string name="end_time_hint">Время завершения</string>
+    <string name="end_time">Время завершения</string>
+    <string name="category_hint">Категория</string>
+    <string name="category">Категория</string>
+    <string name="select_start_time">Выбрать начальное время</string>
+    <string name="select_end_time">Выбрать Время завершения</string>
+    <string name="label_photo">Выбрать изображение</string>
+    <string name="category_image">Категория</string>
+</resources>
